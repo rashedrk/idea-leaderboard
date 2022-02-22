@@ -1,0 +1,90 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #E5E5E5;
+}
+.container{
+    margin-bottom: 36px;
+}
+.navbar-brand img{
+    width: 40px;
+}
+.navbar-brand h4{
+    width: 54px;
+    height: 36px;
+    font-weight: 500;
+    font-size: 24px;
+}
+#navbarNav .nav-link{
+    color: white;
+}
+#navbarNav .nav-link:hover{
+    color: rgb(230, 224, 224);
+}
+header{
+    background-color: #562EFF;
+}
+.top-player img{
+    width: 56px;
+}
+section .container{
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+.title{
+    color:#562EFF;
+    margin-top: 22px;
+    margin-bottom: 23px;
+}
+.top-blog img{
+    width: 177px;
+}
+.top-blog a{
+    text-decoration: none;
+}
+.top-blog p{
+    color:#9F9F9F
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05) ;
+    border: none;
+}
+.card-body p{
+    color: #ED6B4F;
+}
+.card-img-top{
+    padding: 12px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.course-rating img{
+    width: 12px;
+    height: 12px;
+}
+.course-duration img{
+    width: 20px;
+    height: 20px;
+}
+.course-rating span{
+    color: #A2A2A2;
+    font-size: 14px;
+}
+.course-duration p{
+    color: #FF4A60;
+    font-size: 14px;
+}
+.course-duration{
+    width: 94px;
+    background-color: #FFE4E8;
+    border-radius: 15px;
+    height: 29px;
+    padding-top: 4px;
+}
+footer{
+    font-size: 10px;
+    color: rgb(165, 163, 163);
+    text-align: center;
+}
